@@ -1,5 +1,5 @@
 <h2>Hey 👋, I'm <a href="https://github.com/Arthurb0713">Arthur</a></h2>
-<p>I'm currently a software engineer at <strong><a href="https://www.snapchat.com/">Snapchat</a></strong> and formerly at <strong><a href="https://aws.amazon.com/">AWS</a></strong> based in 🌁 Seattle. I am working on some side projects, learning a couple new dishes, and trying to conquer the world as Tannu Tuva in HOI4.</p>
+<p>I am a junior programmer who just started learning programming. I am trying to become a front end developer.💪💪💪</p>
 
 <p>🍌 Don't forget to get some Potassium 🍌</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
