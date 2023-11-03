@@ -1,17 +1,16 @@
 <h2>Hey 👋, I'm <a href="https://github.com/Arthurb0713">Arthur</a></h2>
 <p>I am a junior programmer who just started learning programming. I am trying to become a front end developer.💪💪💪</p>
 
-<p>🍌 Don't forget to get some Potassium 🍌</p>
+<p>Take time to know yourself ... </p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
-<li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/Spiderpig86">Github</a>.</li>
-<li>📝 I <del>regulary</del> write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li>
-<li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
-<li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
-<li>🎉 Fun Fact: 我也会讲中文。</li>
+<li>🔭 I’m currently working on <a > University lessons</a>.</li>
+<li>🧐 Learning about <strong>java script</strong>, <strong>react</strong>, and a bit of <strong>node js</strong>.</li>
+<li>👨‍💻 Most of my projects will available on <a href="https://github.com/Arthurb0713">Github</a>.</li>
+<li>💬 Ping me about <strong>react, js, HTML, and CSS</strong>.</li>
+<li>📙 Check out my <a href="https://github.com/Arthurb0713">resume</a>.</li>
+<li>🎉 Fun Fact: Recent studies show that around 70% of coding jobs have nothing to do with technology at all </li>
 </ul>
 <h2>✒️ Recent Posts</h2>
 <details>
